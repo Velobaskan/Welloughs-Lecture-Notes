@@ -1,0 +1,211 @@
+HIS244 Lecture 5 (31 May 2017)
+
+Topics of Lecture 4, continued
+-------------------------------
+Diet and consumption:
+	~75% of income on fuel, ~10% on shelter, ~5% on fuel. Very little expenditure on clothing.
+	Diet based on bread (~60% of income). An average of 1-1.5kg a day.
+	Some dairy + small amounts of fats and meat. Some fruits and vegetable.
+	Raw fruit considered dangerous by people.
+	Considerable beer and wine consumption. (1.7 - 2.5L per day)	
+	Nobility had a lavish diet. Consumed lots of meat + delicacies brought from overseas.
+
+Dangers of everyday existence:
+	Taxation: ~35-50% of income. Different types of taxes for everyone.
+	Status of the people: most of them weren't treated well.
+	Weather disturbances lead to crop failures, so the subsistence economy is ruined, famines are not uncommon.
+	Fires are common, hard to fight
+	Bandits common. Marching armies pillage on their way
+	Diseases (smallpox, typhus, ...), common. Black death still present. Various skin diseases, deformity, blindness, cataracts very common. 5% - 8% of people are unable to work due to diseases / disabilities.
+	Lack of sanitation.
+	Water unsafe.
+	Life expectancy very short, 30-35 years. Half that for poor people.
+	--> leads to very pessimistic life. Religion becomes a source of hope for people.
+	Low quality of medical services. Apothecaries more respected + common than physicians. Their solutions not very effective. Home remedies often used.
+	Professional midwives help with childbirth.
+	Infanticide punishable by death, but still very common. Prostitution still common, but regulated/banned. Prostitutes were the majority of female settlers of the new world.
+	Homosexuality legally condemned, but not commonly persecuted. Some waves of persecution present. Some people / monarchs openly homosexual.
+	Societies dependent on soil for production.
+	Return on agricultural investment low.
+	For many european countries, agriculture was a majority of GDP.
+	
+Population growth:
+	Population growth increased rapidly, from 0.3% to 1.1%
+	Increased urbanization: Cities in newer powers had their capitals double or triple in size over the 200 years.
+	Reasons:
+		Reduced effect of most devastating cities
+			Incresed regulations in city cleanliness effective
+			Garbage collection, cleaning also helped
+		Inoculations: death rate reduced from 14% to 1%.
+		Lowering of marrying age, especially in the east.
+		Wars were less disastrous to civilian population.
+		More food available. Introduction of maize + potatoes. Food redistributed by the state.
+	European population is redistributed to the west (population boom there).
+	Greater strain on agriculture.
+	Life standards rising. PPP rose from ~$5.5K to ~$7.5k
+	
+Economic Growth:
+	Agriculture:
+		By mid 1700's, yield began to grow. Food prices started to lower.
+		More food surplus: England had to import grain, now started to export food.
+		Proportion of income spent on food decreased from 75% to 50%. More funds spent on clothes, luxuries.
+	Agricultural revolution:
+		Developed in Netherlands, 1600's, 1700's. Adopted by England quickly.
+		Proximity to large urban centres --> focused around urban market.
+		Characteristics:
+			Commercialization of agriculture
+			Capital intensive farming
+			Introduction of industrial crops
+		Means:
+			Drainage, landscaping
+			Soil revitalization --> using nitrogen-fixing plants
+			Crop rotation (abandoning three-field system) --> instead of letting one field rest, grow nitrogen-fixing plants.
+			Convertible husbandry, fodder crops, selectie breeding
+			Improved agricultural tools.
+			Introduction of new plants
+				Maize/corn, turnip --> animal fodder
+				Rice, tomato
+				Potato --> supplementary emergency crop
+			Little Ice Age helped people adapt to these methods adapt.
+			
+			Rather than open field system + common lands, fields divided to plots, enclosures.
+			Land became profitable, bourgeoisie bought large plots of land to profit.
+			
+		Outcome:
+			Increase in agricultual output:
+			Rapid growth of population
+			Accumulation of wealth to invest
+			Poor farmers lost control of their lands when they were acquired by gentry. They went to cities for jobs. If not found, they went overseas. Poverty rising.
+			Decline in position of women --> traditional farming households destroyed. Cottage industries declined.
+		
+	Economic centre shifted from Mediterranean to Atlantic Europe.
+		Accumulation of capital in England, Netherlands, France.
+	Development in transport techniques:
+		Dutch fluyt, British tea clipper.
+		New canals, river regulations for fast navigation.
+		
+	New Financial System:
+		Single currency --> silver and gold standard.
+		Establishments of large banks, national banks.
+			People put money in banks. Banks invested those funds to make more money, return interest.
+		Dropping interest rates.
+		Accumulation of capital was the direct cause of industrial revolution
+		
+	Industrial revolution:
+		Duh.
+		Massive increase in productivity
+		Society and economics changed completely.
+		Transformation of balance between european states, as well as europe and the rest of the world.
+		
+		First stage: textiles --> the things mmediately needed by people (1760's)
+		Second stage: coal metal (1800's)
+		
+		Causes:
+			Guild system now more regulated, declines over time.
+			Merchant entrepreneurs --> accumulation of capital.
+			Deforestation and lack of natural sources of renewable energy.
+				Charcoal production was a major limiting factor.
+				Increasing dependancy on coal, england 80% of coal production
+			Close to surface resources depleted, deep shaft mines needed.
+			Use of coke instead of charcoal reduced iron prices.
+			Atmospheric engine --> used for drainage of mines.
+			Steam engine improved mine drainage.
+			Wage system --> made it simpler for people to get paid, convert income to product.
+		
+		Growth of textile industry very important in the growing demand for better machinery. Increasing demand for cotton raise production in US, epxnasion of slavery in the US.
+		Increased consumerism
+			More goods imported from overseas provinces + colonies
+			Luxuries more affordable
+			New bourgeoisie live under the same standards as the nobility, but still not exempt from tax.
+				This angers them.
+		
+Changing urban environment:
+	Urban population rises. Working people increase.
+	Town planning and reconstruction everywhere.
+		Improving the traffic management
+		Improvements in basic sanitation methods
+		Street lightning.
+	Gentry + clergy move to cities too. 
+	Greter interaction and merging between classes and social groups.
+	Gentry and people of middle rank start getting more involved in production.
+	Education levels rise. Gentry more interested in legal + economical education.
+	Crime rates rise. Violence common. Police forces grow, law is enforced very harshly. Capital punishments increase and become more common. Punishments more common among the poor.
+	Beginning of segregation inside cities between classes; visible differences in poor and wealthy neighbourhoods
+	Consumerism expanding.
+	Increasing unrest among non-nobility since they now have similar life status with them, interact with them very often, but still don't have the same rights as them.
+	
+-------------------------------
+Scientific Revolution:
+	Changes in the thought process, methods of reasoning.
+	Prior to this era, the methods of thinking depended on aristotlean scholasticism.
+		Memorized the thoughts and approaches of past great figures
+		Trying to improve existing ideas, re-proving them.
+		Moving from general theory to a particular focus.
+		Contradicting authorities in the thinking process is not allowed
+		The universe is perfectly ordained (The thought is a fusion of greek philosophy and christian theology)
+			Everything happens to a specific rule --> reflection of god's perfection.
+			All elements in their correct place
+			Perfection of planets' shapes.
+			A geo-centric approach.
+	Beginnings of challenges to this started from astronomers.
+		The church was not happy about the people's challenging of their beliefs.
+		Nicolaus Coppernicus: theory of a heliocentric universe. Past proposed perfections no longer valid
+		Tycho Brahe: Movement of planets not perfect. Discovery of supernova
+		Johannes Kepler: Elliptical orbits. Motion of planets not uniform; three laws of Planetary motion
+		Neo-pythagorean thought: God's creation can be explained and analyzed by mathematical analysis.
+		Galileo Galilei:
+			Circles around saturn
+			Satellites of various planets
+			Proposal of intertia: nothing returns/converges to a natural state. --> rejection of the natural perfect systems
+			Human perception is not perfect; idea of perfection comes from our own inadequateness.
+		Use of Scientific Method:
+			Observe and accumulate data
+			Look for mathematical ordering / put data in order
+			Verify the data mathematically
+			Establish a new theory or new law
+			The validity of the theory or law can be challenged if further proof is given.
+		Francis Bacon:
+			According to bacon:
+				European philosophy is mixed too much with theology
+				European philosphy lacks practicality.
+			Inductive reasoning:
+				Observe first --> induction based on collection of data --> experimentation t oconfirm induction --> final theory
+				Moving from particular to general. Small things add up to establish a general system.
+		René Descartes:
+			"Discourse on Method" --> *tutorial reading*.
+			Every step on the way to prove something can be expressed in precise mathematical terms.
+			Accurate measurements taken in experimentation must be reported; every step must be retraceable from others.
+			Only through questioning, or questioning of questions, it is possible to come to conclusions.
+			World was created by god, and then set in motion and left by the god. Like a great clock made by a great clockmaker and set in motion. "It should and has to be studied."
+		Thomas Hobbes:
+			Rejects the material and spiritual dualism of descartes.
+			Senses are material, therefore it can be studied.
+		Isaac Newton
+			Systematizes the previous thoughts of philosophers and restructures it to a new packaged method.
+			Gravity + laws of mechanics/motion, written as a challenge to previous thoughts.
+			The whole universe runs according natural laws, not according to a divine presence.
+			Humans can discover nature's laws + discover nature's remedies. Cure diseases, increase food supply, divert water bodies, build greater buildings, one day fly.
+			If humans understand all of that, they will no longer be subjects of god.
+			Believes that god still intervenes from time to time.
+			His theories inspired many thinkers.
+	Methods of reasoning:
+		Cartesian:
+			Form hypothesis, question to find flaws and in it, then refute those questions with logic. If this can be done, it is valid.
+		Newtonian:
+			Gather evidence, form hypothesis based on these, prove hypothesis with the evidence. If this can be done, it is valid.
+		We now often a mix of these methods.
+	Formation of scientific societies
+		Groups of scientists exchanging knowledge, collaborating
+	Women in science in this era, but for a short time.
+	
+	Outcome:
+		Challenged the existing ways of thinking.
+		Undermined anything that could not be proven or tested. Rationalism of thought and action.
+		Everything is subject to scientific rules.
+		Reason is humanity's greatest tool of progress. --> religion is dead.
+	Organized religion and deism (like agnosticism)
+		Belief in god, but not in the judeo-christian tradition.
+		God is the creator and nature is the proof is that.
+		True religion must agree with natural reason and evidence.
+		Freedom of thought and tolerance.
+		Thought alone leads to god.
