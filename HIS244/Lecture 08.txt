@@ -1,0 +1,226 @@
+HIS244 Lecture 8 (12 June 2017)
+
+Polan.
+-------------------------------
+Second biggest territory in Europe (after Russia)
+Second largest population in Europe (after France)
+Relatively stable and secure (no enemy troops since 1300's)
+Not formed by conquest, but a union between Poland and Lithuania
+	Later joined (voluntarily) by Prussia (1400's)
+	Also joined by Livonia + Moldova
+	
+Political System:
+	Constitutional elected monarchy.
+		Parliament has right to commission taxes, control taxes, can supervise the king
+		No law can be passed without the approval of the parliament
+		King is elected from noble families
+	Armed rebellion obligatory against kings who breaks the laws.
+	Parliament divided into 3:
+		King
+		Senate
+			Chosen by the king
+		Representatives
+			Chosen by the nobles
+			
+		"Liberum Veto": right to break the parliament --> if legislation infringes on regional interests.
+		King > Central Administration > Regional Administration
+		Larger towns and cities are autonomous. Small towns have no autonomy.
+		TAxation low.
+	Legal System
+		General Tribunal > Provincial Courts > Regional Courts
+		King not a part of this system.
+	
+Religion:
+	Catholic: 40%
+	Protestant: 20%
+	Lutheran: 12%
+	...
+	Warsaw Confederation(1573): "Act of mutual support and tolerance"
+		Unrestricted worship, religious tolerance.
+	Jewish autonomy (~75% of all jews here)
+	
+Society:
+	Polish: 40%
+	Ruthenians: 22% (ukrainians + bielorussians)
+	Lithuanian: 11%
+	German: 10%
+	....
+	Official lingo:
+		Adm., Law: Latin
+		Regional: Ruthenian, German, Polish
+	Theoretically no restrictions. Any religion can hold any position.
+	Intermarriage, cultural mixing common
+	
+Nobility:
+	~10% of entire population
+	Nobility is the presence of political power rather than wealth.
+	No division between nobility: no special titles in the country.
+	Taxes are paid by the nobility, not the peasantry
+		The tax rate is still low.
+	Weird code of behaviour: They adhere to a knightly code of behaviour, dress in traditional clothing.
+	
+Economy:
+	Largest urban centre: Danzig
+	No famines or malnourishment; yields are high, peasants hold relatively more land
+	Peasants must work on noble estate for 3 days a week
+	International trade, mainly for agricultural export
+	
+Foreign Policy:
+	Relatively peaceful. Usually don't declare war
+		War --> more taxes. Nobles don't want this.
+	Little land is lost in wars, but are commonly regained shortly
+	Almost no expansion.
+	
+Military:
+	Very small, but highly professional
+	Largely cavalry-based
+	Cavalry locally trained, units in military are absent in other armies
+	Infantry mainly mercenaries
+	Successful even when outnumbered 1 to 4
+	
+Decline:
+	Political:
+		Counter-reformation - started imposing regulations against non-catholics
+			Alienated members of other religions
+			Removed rights of office of some religions
+		Cultural unification and Ethnic conflict
+			Upper class increasingly polish. Other groups losing their representation.
+		--> attempts on religious unity in multi-religious environment very devastating
+		--> cultural unification on a multi-cultural environment also devastating
+	Economic:
+		Economy was dependent on foreign trade.
+			When prices went down due to agricultural reforms, they had to lower costs. This was not good for their economy
+		Trade surplus declined in domestic market
+		Large scale export and pauperization of middle class.
+		Decline in status of peasantry and their pauperization.
+		--> pushing the low-class to the level of subsistence is not beneficial
+	
+	Parliamentary system:
+		Paralyzed by liberum veto
+		Lack of participation due to changing in status of classes
+		
+	International System:
+		Centralization in neighbours made them stronger
+		Larger professional armies could easily defeat polish military
+		Neighbours also wanted territorial expansion.
+		Underfinanced army
+			Army was not expanded due to its success.
+			Unable to modernize or transform into a large standing force
+		
+		--> Strength of a country invites combined attacks at first suitable opportunity
+			Massive coalitions against poland
+	
+	Monarchy weak, unable to respond to these challenges
+	Complacency
+		Long periods of success made them unable to evolve, adapt to new challenges
+		Sense of superiority
+		--> stagnation
+
+-------------------------------
+Yurop on te eve of the french revolution
+-------------------------------
+Balance of power:
+	Idea started by the Peace of Westfallen.
+	Mainly to resist the French expansion
+	States formed temporary alliances to not let other countries get too strong.
+	
+Wars:
+	War of Spanish Succession:
+		France was opposed by a large coalition
+	War of Polish Succession
+	War of Austrian Succession:
+		Anti-Prussian(+French and Spanish) coalition
+		--> Prussia rose as one of the major powers of Europe
+	Seven Years War
+		Started by Austria to regain Silesia
+		France + Russia + Austria in an alliance
+		Prussia able to defeats Austrians and French, but loses Berlin to Russia
+		Treaty of Paris: Prussia retains Silesia, France loses large parts of colonial possessions
+		All parties financially exhausted
+		
+Armies, Navies and Warfare
+	Improvements in artillery
+	New muskets
+	Large line infantry formation --> "theatre of operation"
+	Battle of manuever. Requires extensive training. Soldiers under very strict control, but desertions very common. (up to 35% of army)
+	Considerable improvements to ships
+		Ships of the line: large, expensive, heavily armed ships.
+		England had superiority over other European forces.
+		
+
+Austria:
+	Maria Theresa in power.
+	Reliance on German-speaking nobility
+		Hungarian-speaking nobility became more common later.
+	Not very strong economically.
+	Absolutist centralization, but nobles still retain most of their rights
+	
+Prussia:
+	Highly centralized state with efficiant bureaucracy, administration
+	Small population, very large standing army
+	Expansionist tendencies
+	
+Russia:
+	Adjusting to the new european culture.
+	Under Catherine, process of reformation continues
+	Expansion of foreign trade.
+	Nobility under full control.
+	Wars + expansion into ottoman empire.
+	Liquidation of crimean khanate.
+	
+Partition of Poland:
+	Russia took parts of Poland, but also offered territories to Prussia + Austria to maintain balance of power
+	Reform movement in Poland + Third of May Constitution
+	Russian intervention + Second partition of Poland
+	--> all three eastern empires expanded, got stronger
+	
+England:
+	Catholics no longer allowed to gain power
+	England + Scotland + Wales under union
+		Stewarts no longer allowed to gain the throne of Scotland.
+		Union Jack
+	After Anne, Hanoverian Dynasty
+		George I, II, III
+		Foreign monarch with little involvement in the rule.
+	Duality of power between the monarchy and the parliament
+		House of commons larger, but chosen by a narrow group of people
+		Highly inefficient. Politial patronage, rotten boroughs, pocket boroughs.
+	Foreign kings largely disinterested with English politics
+		--> parliament got expanded powers
+		Emergence of political parties (Tories, whigs)
+			--> permanent group protecting certain interests
+	
+	Economic growth through colonial expansion + trade improvements
+	Control over speculation and stock exchange.
+	London became the financial capital of Europe.
+	Emergence of modern English identity:
+		Protestant
+		Connected to certain civil freedoms
+		Imperial + superior, entitled
+		Materialistic, pursuit of profit
+		Socially harmonious
+	
+American War of Independence:
+	Rising taxes + tariffs in colonies after numerous wars
+	Demanded representation, was disproportionate
+	Lockean rights, ideas
+	Massive foreign assistance to Americans
+		Caused the 4th Anglo-Dutch war.
+		A lot of volunteers from Europe
+	Treaty of Versailles (1783) --> US independent, humiliation of great britain
+	GBR, FRA, NED bankrupt, serious financial crisis.
+	Quebec Act --> catholicism recognized
+	Indian Act
+	
+Demands of Reforms:
+	Demand for greater freedom of press
+	The french culture of information exchange, gatherings spreads in Engand.
+	Parliaments increasingly seen as a check on absolutism. 
+		They were later temporarily suspended.
+	Many uprisings in empires. Most of them put down.
+		End of absolutist rule in Denmark
+		
+-------------------------------
+European Culture of the Late Early Modern Perod
+-------------------------------
+		
